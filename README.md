@@ -7,7 +7,7 @@ I am a passionate Ruby on Rails Developer with a knack for building scalable and
 - ⚡ &nbsp; I :heart: dogs 🐶
 
 ### 📕&nbsp; Latest Blob Posts
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
+- 
 
 ### 🔗&nbsp; Connect with me
 <p align="left">
