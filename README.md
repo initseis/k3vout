@@ -7,8 +7,7 @@ I am a passionate Ruby on Rails Developer with a knack for building scalable and
 - ⚡ &nbsp; I :heart: dogs 🐶
 
 ### 📕&nbsp; Latest Blob Posts
-- 
-
+- [Open Ruby on Rails errors with VS Code](https://dev.to/k3vout/open-ruby-on-rails-errors-with-vs-code-3c1f)
 ### 🔗&nbsp; Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/ksevinche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
