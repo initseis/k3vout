@@ -6,7 +6,7 @@ I am a passionate Ruby on Rails Developer with a knack for building scalable and
 - 👨‍💻 &nbsp; Read more about my projects at 
 - ⚡ &nbsp; I :heart: dogs 🐶
 
-### 📕&nbsp; Latest Blob Posts
+### 📕&nbsp; Latest Blog Posts
 - [Open Ruby on Rails errors with VS Code](https://dev.to/k3vout/open-ruby-on-rails-errors-with-vs-code-3c1f)
 ### 🔗&nbsp; Connect with me
 <p align="left">
